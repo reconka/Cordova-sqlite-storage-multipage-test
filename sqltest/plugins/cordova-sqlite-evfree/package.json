@@ -1,0 +1,36 @@
+{
+  "name": "cordova-sqlite-evfree",
+  "version": "0.8.2-rc",
+  "description": "Native interface to SQLite for PhoneGap/Cordova - free enterprise version with Android memory fix",
+  "cordova": {
+    "id": "cordova-sqlite-evfree",
+    "platforms": [
+      "android",
+      "ios",
+      "windows",
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/litehelpers/Cordova-sqlite-enterprise-free.git"
+  },
+  "keywords": [
+    "sqlite",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows",
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.3.0"
+    }
+  ],
+  "author": "various",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/litehelpers/Cordova-sqlite-enterprise-free/issues"
+  },
+  "homepage": "https://github.com/litehelpers/Cordova-sqlite-enterprise-free"
+}
